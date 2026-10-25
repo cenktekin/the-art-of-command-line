@@ -1,1 +1,18 @@
-.gitignore
+# Local working notes — never part of a public mirror
+NEXT_ACTIONS.md
+archive/
+.commandcode/
+
+# Local note exports (leading emoji identifies them)
+📄*.md
+📝*.md
+🧠*.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Tooling
+node_modules/

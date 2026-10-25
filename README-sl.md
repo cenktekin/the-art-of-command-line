@@ -226,7 +226,7 @@ EOF
 
 - Za JSON, use [`jq`](http://stedolan.github.io/jq/). Za interaktivnost glejte tudi [`jid`](https://github.com/simeji/jid) in [`jiq`](https://github.com/fiatjaf/jiq).
 
-- Za YAML, uporabite [`shyaml`]((https://github.com/0k/shyaml).
+- Za YAML, uporabite [`shyaml`](https://github.com/0k/shyaml).
 
 - Za Excel ali CSV datoteke, [csvkit](https://github.com/onyxfish/csvkit) ponuja `in2csv`, `csvcut`, `csvjoin`, `csvgrep` itd.
 
